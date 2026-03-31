@@ -7,6 +7,54 @@ gam coding stuff
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 if box_y > HEIGHT:
         text = font.render("GAME OVER", True, BLACK)
         screen.blit(text, (WIDTH//2 - 100, HEIGHT//2))
